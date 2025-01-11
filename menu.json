@@ -16,7 +16,7 @@
       },
       "action": {
         "type": "message",
-        "text": "維修預約"
+        "text": "/維修預約"
       }
     },
     {
@@ -28,7 +28,7 @@
       },
       "action": {
         "type": "message",
-        "text": "清潔預約"
+        "text": "/清潔預約"
       }
     },
     {
@@ -40,7 +40,7 @@
       },
       "action": {
         "type": "message",
-        "text": "進度查詢"
+        "text": "/進度查詢"
       }
     },
     {
@@ -52,7 +52,7 @@
       },
       "action": {
         "type": "message",
-        "text": "常見問題"
+        "text": "/常見問題"
       }
     },
     {
@@ -64,7 +64,7 @@
       },
       "action": {
         "type": "message",
-        "text": "最新消息"
+        "text": "/最新消息"
       }
     },
     {
@@ -76,7 +76,7 @@
       },
       "action": {
         "type": "message",
-        "text": "帳戶管理"
+        "text": "/帳戶管理"
       }
     }
   ]
